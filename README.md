@@ -7,7 +7,7 @@ block of 27 characters and the Decoder will decode this .txt file into the origi
 redundancy padding and error correction to accomplish this.
 
 I wrote this 1.5 years ago and the code is pretty rough. The Decoder class especially has a lot of heavy math in it and is 
-fairly hard to comprehend. If I wrote this today I would do things a lot differently. Both methods have wawy too many global
+fairly hard to comprehend. If I wrote this today I would do things a lot differently. Both methods have way too many global
 variables and some of the method names are pretty bad. It can be hard to follow the flow of the two classes. Most of the logic 
 is solid though.
 
